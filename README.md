@@ -1,18 +1,18 @@
-﻿# рџђЌ Gorgona One | Cctvscan
+# 🐍 Gorgona One | CCTVScan
 
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
-
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
+**Создатель:** Алексей Александров  
+***Проект:** Gorgona One AI  
 
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
-## рџљЂ Overview
-Cctvscan is a powerful OSINT utility included in the Gorgona One toolset.
+## 🚚 Описание (Overview)
+
+🇵🇷 Мощный инструмент для поиска и сканирования открытых камер видеонаблюдения (CCTV) в интернете.
+🇵🇧 A powerful tool for searching and scanning open CCTV cameras on the Internet.
 
 ---
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
